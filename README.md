@@ -1,1 +1,1 @@
-# study-planner
+# My Study Planner
